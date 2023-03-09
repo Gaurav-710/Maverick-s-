@@ -54,7 +54,7 @@ h1 {
 
 #home::before {
     content: "";
-    background: url('/CollegeCampuswithStudent.jpg') no-repeat center center/cover;
+    background: url('CollegeCampuswithStudent.jpg') no-repeat center center/cover;
     position: absolute;
     top: 400px;
     height: 100%;
